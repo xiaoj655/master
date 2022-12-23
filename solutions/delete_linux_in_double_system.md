@@ -1,5 +1,4 @@
-
-1.删除linux所在的分区（删除卷，在windows上）
+1.删除linux所在的分区（删除卷，在windows上）  
 2.用cmd打开diskpart
 3.select disk=0
   select partition 1
